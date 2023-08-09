@@ -79,7 +79,7 @@ export default function Index({ profile }) {
             <img
               src={updatedProfile.pictureUrl}
               alt="Profile Picture"
-              style={{ width: "450px", height: "450px" }}
+              style={{ width: "426px", height: "642px" }}
             />
             <h2>สวัสดีคุณ : {updatedProfile.displayName}</h2>
             <h2>สเตตัส : {updatedProfile.statusMessage}</h2>
